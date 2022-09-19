@@ -20,13 +20,16 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/<your_github_handle>/rtn-calculator",
-  "author": "<Your Name> <your_email@your_provider.com> (https://github.com/<your_github_handle>)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visheshtgupta/rnt-keep-awake.git"
+  },
+  "author": " <Vishesht Gupta> (https://github.com/visheshtgupta/rnt-keep-awake)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/<your_github_handle>/rtn-calculator/issues"
+    "url": "https://github.com/visheshtgupta/rnt-keep-awake"
   },
-  "homepage": "https://github.com/<your_github_handle>/rtn-calculator#readme",
+  "homepage": "https://github.com/visheshtgupta/rnt-keep-awake#readme",
   "devDependencies": {},
   "peerDependencies": {
     "react": "*",
