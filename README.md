@@ -9,7 +9,7 @@ This React Native package allows you to prevent the screen from going to sleep w
 Using yarn
 
 ```
-yarn add https://github.com/visheshtgupta/rnt-keep-awake
+yarn add rnt-keep-awake
 ```
 
 For Ios
