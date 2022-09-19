@@ -2,19 +2,18 @@
 
 This React Native package allows you to prevent the screen from going to sleep while your app is active. It's useful for things like navigation or video playback, where the user expects the app to remain visible over long periods without touch interaction.
 
+##### Based on New RN Arch (Also Supports Old Arch)
+
 ## Installation
 
 Using yarn
 
 ```
-yarn add rtn-keepawake
+yarn add https://github.com/visheshtgupta/rnt-keep-awake
 ```
 
-Using npm
-
-```
-npm install rtn-keepawake --save
-```
+For Ios
+cd ios && pod install && cd ..
 
 ## Usage
 
