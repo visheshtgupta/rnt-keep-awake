@@ -1,6 +1,6 @@
 {
   "name": "rtn-keepawake",
-  "version": "0.0.3",
+  "version": "1.0.2",
   "description": "Add numbers with Turbo Native Modules",
   "react-native": "src/index",
   "source": "src/index",
